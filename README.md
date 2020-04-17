@@ -1,3 +1,3 @@
 # TodoApp
-A todo application using html,css,js 
-libraries: bootstrap4,jquery
+A todo application using html,css,JavaScript.
+(libraries used: bootstrap4,jquery)
